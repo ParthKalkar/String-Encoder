@@ -38,4 +38,4 @@ print(" ".join(
 ## Credits
 * RP Pvt limited
 ## License
-* If you copy
+*  Apache-2.0 License
